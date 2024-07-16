@@ -39,4 +39,4 @@ Please don't hesitate to contact me!
 
 ---
 
-Looking forward to work with you on making this world better!
+Looking forward to work with you!
