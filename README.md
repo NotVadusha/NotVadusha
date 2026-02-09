@@ -35,7 +35,7 @@ Please don't hesitate to contact me!
 
 - ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [vadimkbondarchuk@gmail.com](mailto:vadimkbondarchuk@gmail.com)
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@Vdbrchk](https://t.me/Vdbrchk)
-- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Vadym Bondarchuk](https://www.linkedin.com/in/vadym-bondarchuk-a15409216/)
+- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Vadym Bondarchuk](https://www.linkedin.com/in/vadym-bondarchuk-55311a381/)
 
 ---
 
